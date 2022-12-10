@@ -5,7 +5,7 @@
   "name": "",
   "version": "",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nipplejs": "^0.8.0",
     "npm": "^6.12.1",
     "socket.io": "^2.2.0"
